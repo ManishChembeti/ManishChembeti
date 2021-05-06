@@ -1,6 +1,6 @@
 Hello 🤓
 
-This is Manish. I'm a CS Undergrad and sometimes a Freelance Illustrator. I like everything from Data Science & Graphic Design, except frontend development, which I despise🤢.
+This is Manish. I'm a CS Undergrad and sometimes a Freelance Illustrator. I like everything from Data Science & Graphic Design, except frontend development, which I despise 🤢.
 
 👾 Current interests/stuff I'm working on:
 
