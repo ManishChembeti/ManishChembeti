@@ -9,3 +9,5 @@ This is Manish. I'm a CS Undergrad and sometimes a Freelance Illustrator. I like
 🔷 Internet of Things
 
 🔷 Unity and C#
+
+🔷 Software Engineering and Ethereum ecosystem
