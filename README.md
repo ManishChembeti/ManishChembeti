@@ -11,15 +11,15 @@ I'm Manish
 
 ***Current interests / stuff that I'm working on:***                                                                    
 
-✒️ User Experience Design 
+🎴 User Experience Design 
+ 
+✒️ Adobe Ilustrator
 
-🌐 Internet of Things 
-
-🎮 Unity and C# 
-
-💻 Software engineering
-
+💻 JavaScript
+ 
 💎 Ethereum ecosystem 
+
+
 
 
   
