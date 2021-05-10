@@ -16,4 +16,6 @@ I'm Manish
 
 🎮 Unity and C# 
 
-💎 Software Engineering and Ethereum ecosystem 
+💻 Software engineering
+
+💎 Ethereum ecosystem 
