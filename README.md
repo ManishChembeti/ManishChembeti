@@ -13,7 +13,7 @@ I'm Manish
 
 🎴 User Experience Design 
  
-✒️ Adobe Ilustrator
+✒️ Adobe Illustrator
 
 💻 JavaScript
  
