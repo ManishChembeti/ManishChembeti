@@ -5,7 +5,7 @@ I'm Manish
 
 ✵ Computer Science Undergrad and sometimes a Freelance Illustrator.                                      
 
-✵ I like everything from Data Science & Graphic Design except Frontend Development, which I despise🤢.
+✵ I like everything from Data Science & Graphic Design except Frontend Development, which I despise.
                                                                                                                     
 
 
