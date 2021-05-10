@@ -1,14 +1,15 @@
 Hello
 
-I'm Manish
+I'm Manish                                                   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✵ Computer Science Undergrad and sometimes a Freelance Illustrator.
+✵ Computer Science Undergrad and sometimes a Freelance Illustrator.                                      
 
 ✵ I like everything from Data Science & Graphic Design except Frontend Development, which I despise🤢.
+                                                                                                                    
 
 
-***Current interests / stuff that I'm working on:***
+***Current interests / stuff that I'm working on:***                                                                    
 
 ✒️ User Experience Design 
 
@@ -19,3 +20,6 @@ I'm Manish
 💻 Software engineering
 
 💎 Ethereum ecosystem 
+
+
+  
