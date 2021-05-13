@@ -11,7 +11,7 @@ I'm Manish
 
 ***Current interests / stuff that I'm working on:***                                                                    
 
-🎴 User Experience Design 
+🎴 Foundations of User Experience Design
  
 ✒️ Adobe Illustrator
 
