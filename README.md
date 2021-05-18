@@ -20,7 +20,6 @@ I'm Manish
 💎 Ethereum ecosystem 
 
 
-![fb1ad7b7eb41317bb5447ae2addad01d](https://user-images.githubusercontent.com/59841174/118633096-badbd280-b7ee-11eb-8cc0-21c3d61f5273.gif)
 
 
 
