@@ -21,7 +21,7 @@ I'm Manish
 
 🎴 UX Design Process: Empathize, Define and Ideate
  
-✒️ Adobe Illustrator
+✒️ Adobe Indesign
 
 💻 JavaScript
  
