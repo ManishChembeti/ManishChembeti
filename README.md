@@ -29,6 +29,10 @@ I'm Manish
 
 
 
+<p align="center">
+<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/manishreddy3?tab=repositories"> repositories!</a></h4>
+</p>
+
 
 <p align = "center">
 <a href="linkedin.com/in/manish-chembeti-034679196" target="_blank">
@@ -36,7 +40,3 @@ I'm Manish
 </a>
 </p>
 
-
-<p align="center">
-<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/manishreddy3?tab=repositories"> repositories!</a></h4>
-</p>
