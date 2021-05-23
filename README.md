@@ -30,8 +30,13 @@ I'm Manish
 
 
 
-
+<p align = "center">
 <a href="linkedin.com/in/manish-chembeti-034679196" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
+
+<p align="center">
+<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/AbhishekTilwar?tab=repositories"> repositories!</a></h4>
+</p>
