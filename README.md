@@ -34,7 +34,7 @@ I'm Manish
 </p>
 
 
-<p align = "left">
+<p align = "right">
 <a href="linkedin.com/in/manish-chembeti-034679196" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
