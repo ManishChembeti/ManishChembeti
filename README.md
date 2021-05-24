@@ -25,7 +25,7 @@ I'm Manish
 
 💻 JavaScript
  
-💎 Ethereum ecosystem 
+
 
 
 
