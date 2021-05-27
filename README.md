@@ -1,11 +1,7 @@
 Hello
 
-I'm Manish  <p align = "right">
-<a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>                                                 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm Manish 
+---------------------------------------------------------------------
 
 <!--![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishreddy3&show_icons=true&theme=cobalt&custom_title=Manish's-GitHub-Stats)-->
 
