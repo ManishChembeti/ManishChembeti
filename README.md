@@ -23,12 +23,8 @@ I'm Manish
  
 ✒️ Adobe XD
 
-💻 Python
+
  
-
-
-
-
 
 <p align = "right">
 <a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
