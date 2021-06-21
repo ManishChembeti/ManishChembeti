@@ -23,7 +23,7 @@ I'm Manish
  
 ✒️ Adobe XD
 
-💻 JavaScript
+💻 Python
  
 
 
