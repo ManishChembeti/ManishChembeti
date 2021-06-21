@@ -19,7 +19,7 @@ I'm Manish
 
 ***Current interests / stuff that I'm working on:***                                                                    
 
-🎴 UX Design Process: Empathize, Define and Ideate
+🎴 Building Wireframes and Low-Fidelity Prototypes
  
 ✒️ Adobe XD
 
