@@ -1,6 +1,6 @@
-Hello
 
-I'm Manish 
+
+Hello 
 ---------------------------------------------------------------------
 
 <!--![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishreddy3&show_icons=true&theme=cobalt&custom_title=Manish's-GitHub-Stats)-->
@@ -8,13 +8,6 @@ I'm Manish
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manishreddy3&repo=100-days-of-code)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishreddy3&layout=compact&langs_count=7)-->
-
-
-
-✵ Computer Science Undergrad and sometimes a Freelance Illustrator.                                      
-
-✵ I like everything from Data Science & Graphic Design except Frontend development, which I despise.
-                                                                                                                    
 
 
 ***Current interests / stuff that I'm working on:***                                                                    
