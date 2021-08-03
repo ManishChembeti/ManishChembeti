@@ -12,11 +12,11 @@ Hello
 
 ***Current interests / stuff that I'm working on:***                                                                    
 
-. Responsive Web Design
-
-. Operatng Systems & Java
-
+ Responsive Web Design
  
+ Operatng Systems & Java
+ 
+
 
 <p align = "right">
 <a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
