@@ -12,10 +12,9 @@ Hello
 
 ***Current interests / stuff that I'm working on:***                                                                    
 
-🎴 Building Wireframes and Low-Fidelity Prototypes
- 
-✒️ Adobe XD
+Responsive Web Design
 
+Operatng Systems & Java
 
  
 
