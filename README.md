@@ -16,7 +16,7 @@ Hello
  
  Operating Systems & Java
  
-Information Audit and Analysis
+ Information Security Audit and Analysis
 
 <p align = "right">
 <a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
