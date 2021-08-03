@@ -12,7 +12,7 @@ Hello
 
 ***Current interests / stuff that I'm working on:***                                                                    
 
- Responsive Web Design
+ Responsive Design
  
  Operating Systems & Java
  
