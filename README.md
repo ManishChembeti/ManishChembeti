@@ -10,9 +10,9 @@
 ***Current interests / stuff that I'm working on:***                                                                    
 
 
-Reponsive Design
+Reponsive Design | Sass 
 
-Sass | NPM | Nodejs | MongoDB
+NPM | Nodejs | MongoDB
 
 <p align = "right">
 <a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
