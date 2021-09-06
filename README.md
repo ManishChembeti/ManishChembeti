@@ -9,9 +9,10 @@
 
 ***Current interests / stuff that I'm working on:***                                                                    
 
-Neural Networks
 
 Reponsive Design
+
+Sass | NPM | Nodejs | MongoDB
 
 <p align = "right">
 <a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
