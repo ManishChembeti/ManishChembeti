@@ -12,7 +12,7 @@
 
 AWS | GCP 
 
-Js | Blockchain Fundamentals
+Js | Blockchain fundamentals
 
 <p align = "right">
 <a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
