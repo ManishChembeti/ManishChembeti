@@ -10,7 +10,7 @@
 ***Current interests / stuff that I'm working on:***                                                                    
 
 
-AWS | GCP ☁️ 
+AWS | GCP 
 
 NPM | Nodejs | MongoDB
 
