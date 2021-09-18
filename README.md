@@ -12,11 +12,10 @@
 
 AWS | GCP 
 
-NPM | Nodejs | MongoDB
+Js | Altcoins
 
 <p align = "right">
 <a href="https://www.linkedin.com/in/manish-chembeti-034679196/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
