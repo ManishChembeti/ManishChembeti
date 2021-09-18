@@ -10,7 +10,7 @@
 ***Current interests / stuff that I'm working on:***                                                                    
 
 
-Reponsive Design | Sass 
+AWS | GCP ☁️ 
 
 NPM | Nodejs | MongoDB
 
