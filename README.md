@@ -10,6 +10,8 @@
 ***Current interests / stuff that I'm working on:***                                                                    
 
 
-AWS CCP 
+AWS-CCP 
 
-Javascript | Blockchain fundamentals
+Javascript
+
+Blockchain fundamentals
