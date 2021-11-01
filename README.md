@@ -15,3 +15,6 @@ AWS-CCP
 Javascript
 
 Blockchain fundamentals
+
+
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://https://www.codechef.com/users/manishreddy3)
