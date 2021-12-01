@@ -10,8 +10,7 @@
 ***Current interests / stuff that I'm working on:***                                                                    
 
 
-AWS-CCP | Javascript | Binance Ecosystem
-
+Binance Ecosystem | Revise HTML & CSS
 
 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manishreddy3)
