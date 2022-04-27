@@ -10,7 +10,7 @@
 ***Current interests / stuff that I'm working on:***                                                                    
 
 
-Polygon DeFi | JavaScript | Algo Trading
+Javascript | Polygon DeFi
 
 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manishchembeti)
