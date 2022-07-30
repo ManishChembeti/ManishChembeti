@@ -10,8 +10,7 @@
 ***Current interests / stuff that I'm working on:***                                                                    
 
 
-Javascript | Perp Protocol
-
+React | Polygon
 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manishchembeti)
 
